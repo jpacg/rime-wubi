@@ -20676,7 +20676,7 @@
 下班	ghgy
 腹地	etfb
 摊位	rcwu
-协和	fetk
+协程	fetk
 金融界	qglw
 得天独厚	tgqd
 领会	wywf
